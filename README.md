@@ -42,7 +42,7 @@ Invisible Quality Care: Small clinics and local doctors, who often provide excel
 
         Meaningful Insights: Doctors receive insights to improve, and hospitals get a clear picture of their team's performance.
 
-    3. Transparency and Visibility MedCare brings transparency to actual care quality, giving equal visibility to small clinics and local doctors who provide better treatment than big hospitals.
+    3. Transparency and Visibility MedCare brings transparency to actual care quality, giving equal visibility to small clinics and local doctors who provide     better treatment than big hospitals.
     
    These "hidden gems" are recognized, trusted, and supported by real data.
 
