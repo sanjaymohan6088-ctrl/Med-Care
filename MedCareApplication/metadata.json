@@ -1,0 +1,7 @@
+{
+  "name": "MedCare",
+  "description": "A patient-first prescription digitizer and adherence tracker using Gemini 2.5 Flash for instant OCR and medical record parsing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
